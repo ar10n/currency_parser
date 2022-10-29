@@ -4,3 +4,6 @@ dist/
 
 .code
 .fleet
+
+*.csv
+*.csv#
